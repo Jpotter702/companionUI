@@ -7,7 +7,7 @@
 	- Fully Integrate Frontend
 	- Error Handling
 	- Make Production Ready
-	- Testing, Debugging, Deploy
+	~~ Testing, Debugging, Deploy
 	
 
 - Action Plan Summary
@@ -24,5 +24,6 @@
     
 7.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjY4ODEyNSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyODU0NjA4MDAsLTg4MjY4ODEyNSw0OT
+c4MTg4MTBdfQ==
 -->
