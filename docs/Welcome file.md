@@ -11,8 +11,8 @@
 	
 
 - Action Plan Summary
-
-1.  **Set up WebSocket server** (Node.js or FastAPI)
+1.	Set up WebSocket server
+	Create a basic WebSocket server that listens for client connections.
     
 2.  **Design message formats** and integrate with frontend
     
@@ -24,5 +24,5 @@
     
 6.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3NDMzMDAsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTI1Mjc5Mjc0Niw0OTc4MTg4MTBdfQ==
 -->
