@@ -1,5 +1,5 @@
 - WebSocket Architecture Setup
-	- Set up WebSocket server
+	1. Set up WebSocket server
 	- Configure WebSocket Server
 	- Define WebSocket message types
 	- Implement component support for Websockets
@@ -12,17 +12,17 @@
 
 - Action Plan Summary
 1.	Set up WebSocket server
-	Create a basic WebSocket server that listens for client connections.
+	- Server listens for client connections.
     
-2.  **Design message formats** and integrate with frontend
+3.  **Design message formats** and integrate with frontend
     
-3.  **Wire UI components** to WebSocket listener for real-time updates
+4.  **Wire UI components** to WebSocket listener for real-time updates
     
-4.  **Implement fallback mechanisms** and error handling
+5.  **Implement fallback mechanisms** and error handling
     
-5.  **Test the full flow** (WebSocket connection → message flow → UI update)
+6.  **Test the full flow** (WebSocket connection → message flow → UI update)
     
-6.  **Deploy WebSocket server** for production usage
+7.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjc5Mjc0Niw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTg4MjY4ODEyNSw0OTc4MTg4MTBdfQ==
 -->
