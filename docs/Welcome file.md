@@ -1,6 +1,7 @@
- 1. 
+- WebSocket Architecture Setup
+	- Set up WebSocket server
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMDI3OTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTg3OTE2MTQ3OCw0OTc4MTg4MTBdfQ==
 -->
