@@ -1,5 +1,5 @@
-##### WebSocket Architecture Setup
-Set up WebSocket server<sup>1</sup>
+>### WebSocket Architecture Setup 
+<p>Set up WebSocket server<sup>1</sup>
 Define WebSocket message types<sup>2</sup>
 Implement component support for Websockets<sup>3</sup>
 Implement WebSocket connection<sup>4</sup> 
@@ -22,6 +22,6 @@ Testing, Debugging, Deploy<sup>8</sup>
     
 7.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjExODYwNywtODgyNjg4MTI1LDQ5Nz
+eyJoaXN0b3J5IjpbLTMzMjU5OTE1OSwtODgyNjg4MTI1LDQ5Nz
 gxODgxMF19
 -->
