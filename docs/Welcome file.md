@@ -4,10 +4,10 @@
 	- Define WebSocket message types
 	- Implement component support for Websockets
 	- Implement WebSocket connection 
-	- Fully Integrate Frontend
-	- Error Handling
-	- Make Production Ready
-	<sup><sub>Testing, Debugging, Deploy</sup><
+	- <sub>Fully Integrate Frontend>
+	- <sub>Error Handling
+	- <sup>Make Production Ready
+	<sup><sub>Testing, Debugging, Deploy</sup></sub>
 	
 
 - Action Plan Summary
@@ -24,6 +24,6 @@
     
 7.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjQ5NzQ3MSwtODgyNjg4MTI1LDQ5Nz
+eyJoaXN0b3J5IjpbLTYwNTgxNDUyMCwtODgyNjg4MTI1LDQ5Nz
 gxODgxMF19
 -->
