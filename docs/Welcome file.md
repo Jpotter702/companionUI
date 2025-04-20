@@ -1,12 +1,12 @@
 ### WebSocket Architecture Setup
-Set up WebSocket server<sup>1
-Define WebSocket message types<sup>2
+Set up WebSocket server<sup>1</sup>
+Define WebSocket message types<sup>2</sup>
 Implement component support for Websockets
-	- Implement WebSocket connection 
-	- <sub>Fully Integrate Frontend
-	- Error Handling
-	- <sup>Make Production Ready
-	<sup><sub>Testing, Debugging, Deploy</sup></sub>
+Implement WebSocket connection 
+Fully Integrate Frontend
+Error Handling
+Make Production Ready
+Testing, Debugging, Deploy
 	
 
 - Action Plan Summary
@@ -23,6 +23,6 @@ Implement component support for Websockets
     
 7.  **Deploy WebSocket server** for production usage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NDI4ODk1LC04ODI2ODgxMjUsNDk3OD
+eyJoaXN0b3J5IjpbNzE4ODM3MTI3LC04ODI2ODgxMjUsNDk3OD
 E4ODEwXX0=
 -->
