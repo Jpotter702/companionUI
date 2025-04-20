@@ -2,11 +2,13 @@
 	- Set up WebSocket server
 	- Configure WebSocket Server
 	- Define WebSocket message types
-	- Enable components fpImplement WebSocket connection in components
-	- Frontend UI Integration
+	- Implement component support for WebsocketsO
+	- Implement WebSocket connection 
+	- Fully Integrate Frontend
+	- 
 	- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTgzOTk5Myw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMzYxNTQxNTEzLDQ5NzgxODgxMF19
 -->
