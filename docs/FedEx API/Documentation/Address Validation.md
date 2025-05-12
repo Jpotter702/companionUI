@@ -209,13 +209,13 @@ For example:
 
 _Note: Address Validation API might not be applicable for all the countries. Refer the section **Countries/Territories Supporting Address Validation API**._
 
+
 ### JSON API Collection
 
 Explore our JSON API collection to see how we can deliver on your business needs. Test your integration with these sample requests.
 
-[Learn more about sandbox virtualization guide](https://developer.fedex.com/api/en-us/guides/sandboxvirtualization.html)
 
-*   [![Image 8](https://developer.fedex.com/api/content/dam/fedex-com/irc/leftnav/add-circle.svg)Menu](https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html#)
+
 
 *   [Getting Started](https://developer.fedex.com/api/en-us/get-started.html)
 *   [API Catalog](https://developer.fedex.com/api/en-us/catalog.html)
@@ -676,5 +676,5 @@ Copy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5MDIwNjhdfQ==
+eyJoaXN0b3J5IjpbMTA1NDUyNjUxNV19
 -->
