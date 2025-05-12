@@ -3,17 +3,10 @@ Title: Address Validation API Documentation | FedEx Developer Portal
 URL Source: https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html
 
 Markdown Content:
-    
-
- * * *
-
-[](https://www.fedex.com/en-us/developer.html)
 
 # Address Validation API
 
 [DOWNLOAD JSON SCHEMA](blob:https://developer.fedex.com/97dc1310-b35a-4ba0-8f4f-f254a1d88fe6)
-
-***
 
 ## Introduction
 
@@ -54,97 +47,50 @@ _*   Address resolution results vary by country/territory.
 You can use the FedEx Address Validation API in the following countries to validate and correct the recipient addresses for efficient deliveries.
 
 Antilles
-
 Denmark
-
 Panama
-
 Argentina
-
 Dominican Republic
-
 Peru
-
 Aruba
-
 Estonia
-
 Portugal
-
 Australia
-
 Finland
-
 Singapore
-
 Austria
-
 France
-
 South Africa
-
 Bahamas
-
 Germany
-
 Spain
-
 Barbados
-
 Greece
-
 Sweden
-
 Belgium
-
 Guatemala
-
 Switzerland
-
 Bermuda
-
 Hong Kong SAR, China
-
 Trinidad and Tobago
-
 Brazil
-
 Italy
-
 United Kingdom
-
 Canada
-
 Jamaica
-
 United States
-
 Cayman Islands
-
 Malaysia
-
 Uruguay
-
 Chile
-
 Mexico
-
 Venezuela
-
 Columbia
-
 Netherlands
-
 Virgin Islands
-
 Costa Rica
-
 New Zealand
-
- 
-
 Czech Republic
-
 Norway
 
  
@@ -730,5 +676,5 @@ Copy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MzQ0NjU5XX0=
+eyJoaXN0b3J5IjpbLTE1MTk5MDIwNjhdfQ==
 -->
