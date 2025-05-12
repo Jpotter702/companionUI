@@ -216,23 +216,7 @@ Explore our JSON API collection to see how we can deliver on your business needs
 
 
 
-
-*   [Getting Started](https://developer.fedex.com/api/en-us/get-started.html)
-*   [API Catalog](https://developer.fedex.com/api/en-us/catalog.html)
-*   [API Recipes](https://developer.fedex.com/api/en-us/Api-recipes.html)
-*   [Guides](https://developer.fedex.com/api/en-us/guides.html)
-*   [Announcements](https://developer.fedex.com/api/en-us/announcements.html)
-*   [API Certification](https://developer.fedex.com/api/en-us/certification.html)
-*   [Support/FAQs](https://developer.fedex.com/api/en-us/support.html)
-
-*   Other products
-    *   [FedEx Web Services®](https://developer.fedex.com/en-us/developer/web-services.html)
-    *   [FedEx Ship Manager® Server](https://developer.fedex.com/en-us/developer/ship-manager-server.html)
-
-*   **ADDRESS VALIDATION API**
-*   [![Image 9](https://developer.fedex.com/api/content/dam/fedex-com/irc/leftnav/add-circle.svg)Overview](https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html#)
-
-*   Introduction*   Address Validation API Details*   How Address Validation API Works*   Address Classification*   Tips for Using the Address Validation API*   Business Rules*   JSON API Collection
+**ADDRESS VALIDATION API**
 
 *   postValidate Address
 *   Error Codes
@@ -676,5 +660,5 @@ Copy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDUyNjUxNV19
+eyJoaXN0b3J5IjpbLTEyMjgyMDA2NzhdfQ==
 -->
