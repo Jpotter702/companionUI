@@ -3,19 +3,9 @@ Title: Address Validation API Documentation | FedEx Developer Portal
 URL Source: https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html
 
 Markdown Content:
-true
-
-![Image 6: Fedex Logo](https://developer.fedex.com/api/content/dam/fedex-com/irc/leftnav/white.png)  
-
-###### Developer Portal
-
-        
-
     
 
- [![Image 7: Sign Up or Log In](https://developer.fedex.com/api/content/dam/fedex-com/irc/leftnav/login-icon_white.svg) Sign Up or Log In](https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html#)
-
-* * *
+ [* * *
 
 [](https://www.fedex.com/en-us/developer.html)
 
@@ -744,40 +734,7 @@ Response
 
 Copy
 
-Enter your user ID and password to log in
------------------------------------------
-
-LOG IN
-
-FORGOT PASSWORD OR USER ID?
-
-* * *
-
-Get access to FedEx APIs by creating a user ID.
-
-SIGN UP
-
-  
-
- 
-
-*   Are you an existing Web Services or FedEx Ship Manager Server Customer? If so, you can still access the [Developer Resource Center](https://www.fedex.com/en-us/developer.html "DRC").
-    
-*   © FedEx Corporate Services Inc. All rights reserved.
-
-*   [Integration Solutions](https://www.fedex.com/en-us/integration.html)
-*   [Support](https://www.fedex.com/en-us/integration/support.html)
-*   [FedEx.com](https://www.fedex.com/en-us/home.html)
-*   [Terms of Use](https://www.fedex.com/en-us/terms-of-use.html)
-*   [Security & Privacy](https://www.fedex.com/en-us/trust-center.html)
-
-*   ![Image 11](https://developer.fedex.com/api/content/dam/fedex-com/irc/leftnav/globe.png)
-*   United States*   English
-    
-    *   [English](https://developer.fedex.com/api/en-us/catalog/address-validation/v1/docs.html)
-    *   [Spanish](https://developer.fedex.com/api/es-us/catalog/address-validation/v1/docs.html)
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDIyNzcxNF19
+eyJoaXN0b3J5IjpbLTEyNDg1NDIwMDRdfQ==
 -->
