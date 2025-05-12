@@ -5,23 +5,17 @@ URL Source: https://developer.fedex.com/api/en-us/catalog/address-validation/v1/
 Markdown Content:
     
 
- [* * *
+ * * *
 
 [](https://www.fedex.com/en-us/developer.html)
 
-*   [Home](https://developer.fedex.com/api/en-us/home.html)
-*   [Catalog](https://developer.fedex.com/api/en-us/catalog.html) 
-*   [Address Validation API](https://developer.fedex.com/api/en-us/catalog/address-validation.html) 
-*   Address Validation API Documentation 
-
-Address Validation APi
+# Address Validation API
 
 [DOWNLOAD JSON SCHEMA](blob:https://developer.fedex.com/97dc1310-b35a-4ba0-8f4f-f254a1d88fe6)
 
+***
 
-=========================================================================================================================
-
-### Introduction
+## Introduction
 
 The Address Validation API is a smart solution to resolve inaccurate contact details and enable faster delivery of packages with precision. This API appropriately formats the input recipient address information that closely resembles a valid address and returns a real-world address that is likely to be the one intended.
 
@@ -736,5 +730,5 @@ Copy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg1NDIwMDRdfQ==
+eyJoaXN0b3J5IjpbMjI3MzQ0NjU5XX0=
 -->
